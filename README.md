@@ -31,32 +31,8 @@ Focused on web development, Linux, networking, and security fundamentals.
 
 ---
 
-## 🚀 Featured Projects
+## 🤝 Connect With Me
 
-Check my pinned repositories below 👇
+[![LinkedIn](https://img.shields.io/badge/Add%20me%20on-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://it.linkedin.com/in/daiver-arniego-yambao/it?trk=profile-badge)
 
-Some projects may contain:
-- logs analysis
-- security labs
-- Python scripts
-- networking experiments
-- web development practice
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DAIVER111&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAIVER111&layout=compact&hide_border=true)
-
----
-
-## ☕ Fun Fact
-
-```python
-while(alive):
-    learn()
-    build()
-    improve()
-```
+              
